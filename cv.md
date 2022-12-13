@@ -8,7 +8,7 @@
 + GitHub: GPonomarev
 ---
 ## About me
-
+I'm trying to learn new technologies. I have experience of working in a team. I want to become a full stack developer.
 ## Skills
 + JavaScript, [TypeScript](https://www.typescriptlang.org/docs/)
 + [React](https://reactjs.org/docs/getting-started.html), [NextJS](https://nextjs.org/docs)
@@ -52,3 +52,4 @@ For a year and a half, I participated in two startups, unfortunately the funding
 + [Omsk State Pedagogical University](https://omgpu.ru/en/),
 M.Ed.
 ## English
+EF SET considers that b1
