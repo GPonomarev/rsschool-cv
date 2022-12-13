@@ -51,5 +51,6 @@ For a year and a half, I participated in two startups, unfortunately the funding
 + [Manash Kozybayev North Kazakhstan University](http://nku.edu.kz/), Bachelor of Computer Science
 + [Omsk State Pedagogical University](https://omgpu.ru/en/),
 M.Ed.
+---
 ## English
 EF SET considers that b1
