@@ -1,1 +1,1 @@
-# rsschool-cv
+[https://GPonomarev.github.io/rsschool-cv/cv](https://GPonomarev.github.io/rsschool-cv/cv)
